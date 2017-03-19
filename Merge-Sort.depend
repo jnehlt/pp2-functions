@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1489844446 source:e:\studia\sem 2\podstawy programowania 2\sortowanie\merge-sort\generuj.c
+	"generuj.h"
+
+1489845709 e:\studia\sem 2\podstawy programowania 2\sortowanie\merge-sort\generuj.h
+
+1489881386 source:e:\studia\moje\merge-sort\generuj.c
+	<time.h>
+	<stdlib.h>
+	"generuj.h"
+
+1489859477 e:\studia\moje\merge-sort\generuj.h
+
+1489882918 source:e:\studia\moje\merge-sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/headers/generuj.h"
+
+1489862107 source:e:\studia\moje\merge-sort\wyswietl.c
+	<stdio.h>
+	"generuj.h"
+
+1489882965 source:e:\studia\moje\merge-sort\lib\definitions\wyswietl.c
+	<stdio.h>
+	"../headers/generuj.h"
+
+1489859477 e:\studia\moje\merge-sort\lib\headers\generuj.h
+
+1489883071 source:e:\studia\moje\merge-sort\lib\definitions\generuj.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	"../headers/generuj.h"
+
